@@ -1,6 +1,6 @@
 @media (max-width: 1200px) {
   body {
-    background-color: blueviolet;
+    background-color: red;
   }
 
   .fundo-video {
@@ -16,6 +16,10 @@
 
   .container .mario {
     max-width: 50%;
+  }
+
+  .container .imagem-titulo {
+    max-width: 100%;
   }
 
   .container .informacoes {
